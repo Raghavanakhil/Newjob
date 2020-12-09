@@ -101,3 +101,6 @@ print(s)
 
 print('got a new job so need to work hard double')
 print('need to learn a lot')
+
+print('merging the files')
+print("created another fille with name Chelakity")
